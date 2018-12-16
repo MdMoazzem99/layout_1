@@ -1,0 +1,267 @@
+body{
+	margin: 0px;
+	padding:0px;
+}
+.header{
+	background-color: #035FCA;
+	min-height: 100px;
+	overflow: hidden;
+	margin-bottom: 30px;
+}
+.logo{
+	/*border: 5px solid black;*/
+	width: 8%;
+	float: left;
+	margin: 20px;
+}
+.logo img{
+	border-radius: 60px;
+	width: 100%;
+}
+.menu{
+	/*border:5px solid black;*/
+	width: 29%;
+	float: right;
+	margin: 46px 20px;
+}
+.menu ul{
+	float: right;
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+}
+.menu ul li a{
+	background-color: green;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin: 0px 9px;
+	color: white;
+	display: block;
+}
+.menu ul li:last-child a{
+	margin-right: 0px;
+}
+.menu ul li a:hover{
+	color: #A70100;
+	overflow: hidden;
+}
+.banner{
+	/*border: 5px solid black;*/
+	overflow: hidden;
+	margin: 30px 0px;
+}
+.image_1{
+	/*border: 5px solid red;*/
+	width: 48%;
+	float: left;
+}
+.image_1 img{
+	width: 100%;
+}
+.info_1{
+	/*border: 5px solid green;*/
+	width: 48%;
+	float: right;
+	padding: 52px 0px;
+}
+.service_1{
+	/*border: 5px solid black;*/
+	margin: 30px 0px;
+	overflow: hidden;
+}
+.div_1{
+	/*border: 5px solid red;*/
+	width: 30%;
+	margin-right: 27px;
+}
+.image_2{
+	/*border: 5px solid green;*/
+	margin-bottom: 30px;
+}
+.image_2 img{
+	width: 100%;
+}
+.info_2{
+	/*border: 5px solid blue;*/
+	margin-top: 30px;
+}
+.div_2{
+	/*border: 5px solid green;*/
+	width: 30%;
+	margin: 0px 25px;
+}
+.image_3{
+	/*border: 5px solid blue;*/
+	margin-bottom: 30px;
+}
+.image_3 img{
+	width: 100%;
+}
+.info_3{
+	/*border: 5px solid red;*/
+	margin-top: 30px;
+}
+.div_3{
+	/*border: 5px solid blue;*/
+	width: 30%;
+	margin-left: 26px;
+}
+.image_4{
+	/*border: 5px solid red;*/
+	margin-bottom: 30px;
+}
+.image_4 img{
+	width: 100%;
+}
+.info_4{
+	/*border: 5px solid green;*/
+	margin-top: 30px;
+}
+.service_1 div{
+	float: left;
+}
+.service_2{
+	/*border: 5px solid black;*/
+	margin: 30px 0px;
+	overflow: hidden;
+}
+.div_2_1{
+	/*border: 5px solid red;*/
+	width: 30%;
+	margin-right: 27px;
+}
+.image_5{
+	/*border: 5px solid green;*/
+	margin-bottom: 30px;
+}
+.image_5 img{
+	width: 100%;
+}
+.info_5{
+	/*border: 5px solid blue;*/
+	margin-top: 30px;
+}
+.div_2_2{
+	/*border: 5px solid green;*/
+	width: 30%;
+	margin: 0px 25px;
+}
+.image_6{
+	/*border: 5px solid blue;*/
+	margin-bottom: 30px;
+}
+.image_6 img{
+	width: 100%;
+}
+.info_6{
+	/*border: 5px solid red;*/
+	margin-top: 30px;
+}
+.div_2_3{
+	/*border: 5px solid blue;*/
+	width: 30%;
+	margin-left: 26px;
+}
+.image_7{
+	/*border: 5px solid red;*/
+	margin-bottom: 30px;
+}
+.image_7 img{
+	width: 100%;
+}
+.info_7{
+	/*border: 5px solid green;*/
+	margin-top: 30px;
+}
+.service_2 div{
+	float: left;
+}
+.contact{
+	background-color: pink;
+	margin-top:30px;
+	overflow: hidden;
+}
+.contact_1{
+	/*border: 5px solid red;*/
+	width: 20%;
+	margin: 0px 28px;
+}
+.contact_2{
+	/*border: 5px solid green;*/
+	width: 20%;
+	margin: 0px 28px;
+}
+.contact_3{
+	/*border: 5px solid yellow;*/
+	width: 20%;
+	margin: 0px 28px;
+}
+.contact_4{
+	/*border: 5px solid blue;*/
+	width: 20%;
+	overflow: hidden;
+	margin: 0px 28px;
+}
+.birds{
+	/*border: 5px solid red;*/
+	overflow: hidden;
+}
+.bird_1{
+	/*border: 5px solid blue;*/
+	width: 13%;
+	margin-right: 5px;
+}
+.bird_1 img{
+	width: 100%;
+}
+.bird_2{
+	/*border: 5px solid green;*/
+	width: 13%;
+	margin: 0px 5px;
+}
+.bird_2 img{
+	width: 100%;
+}
+.bird_3{
+	/*border: 5px solid white;*/
+	width: 13%;
+	margin: 0px 5px;
+}
+.bird_3 img{
+	width: 100%;
+}
+.bird_4{
+	/*border: 5px solid black;*/
+	width: 13%;
+	margin: 0px 5px;
+}
+.bird_4 img{
+	width: 100%;
+}
+.bird_5{
+	/*border: 5px solid brown;*/
+	width: 13%;
+	margin-left: 5px;
+}
+.bird_5 img{
+	width: 100%;
+}
+.birds div{
+	float: left;
+}
+.contact div{
+	float: left;
+}
+.footer{
+	/*border: 5px solid red;*/
+	overflow: hidden;
+}
+.para_1{
+	/*border: 5px solid green;*/
+	float: left;
+}
+.para_2{
+	/*border: 5px solid blue;*/
+	float: right;
+}
