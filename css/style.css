@@ -208,6 +208,9 @@ body{
 	width: 20%;
 	margin: 0px 28px;
 }
+.contact_1 h1{
+	text-align: center;
+}
 .contact_1 p{
 	text-align: justify;
 }
@@ -216,6 +219,9 @@ body{
 	width: 20%;
 	margin: 0px 28px;
 }
+.contact_2 h1{
+	text-align: center;
+}
 .contact_2 p{
 	text-align: justify;
 }
@@ -223,6 +229,9 @@ body{
 	/*border: 5px solid yellow;*/
 	width: 20%;
 	margin: 0px 28px;
+}
+.contact_3 h1{
+	text-align: center;
 }
 .contact_3 p{
 	text-align: justify;
@@ -233,12 +242,16 @@ body{
 	overflow: hidden;
 	margin: 0px 28px;
 }
+.contact_4 h1{
+	text-align: center;
+}
 .contact_4 p{
 	text-align: justify;
 }
 .birds{
 	/*border: 5px solid red;*/
 	overflow: hidden;
+	width: 131%
 }
 .bird_1{
 	/*border: 5px solid blue;*/
